@@ -1,0 +1,20 @@
+# 数据（全部忽略）
+data/
+dataset/
+
+# 模型
+checkpoints/
+*.pth
+
+# 结果
+results/
+*.png
+*.txt
+
+# Python缓存
+__pycache__/
+*.pyc
+
+# IDE文件
+.idea/
+.vscode/
