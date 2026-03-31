@@ -7,7 +7,7 @@ import os
 # ======================
 # 1. 配置
 # ======================
-data_dir = "/kaggle/input/data-sport/data"
+data_dir = "/kaggle/input/datasets/gxrrggthxer/data-sport/data"
 batch_size = 64
 num_classes = 7
 epochs = 250
